@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>拜德英纳夫</title>
+  
+  <subtitle>静以修身</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.badenough.top/"/>
+  <updated>2020-10-29T13:51:10.531Z</updated>
+  <id>https://www.badenough.top/</id>
+  
+  <author>
+    <name>Badenough</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo-theme-indigo-card主题安装及常见问题解决</title>
+    <link href="https://www.badenough.top/p/c028.html"/>
+    <id>https://www.badenough.top/p/c028.html</id>
+    <published>2020-10-29T13:14:08.000Z</published>
+    <updated>2020-10-29T13:51:10.531Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;安装&quot;&gt;&lt;a href=&quot;#安装&quot; class=&quot;headerlink&quot; title=&quot;安装&quot;&gt;&lt;/a&gt;安装&lt;/h2&gt;&lt;p&gt;安装需确认你的 Hexo 版本在 3.0 以上，以及 Node 版本为 6.x 以上，在 Hexo
+        
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://www.badenough.top/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="hexo博客" scheme="https://www.badenough.top/tags/hexo%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="indigo主题" scheme="https://www.badenough.top/tags/indigo%E4%B8%BB%E9%A2%98/"/>
+    
+      <category term="部署" scheme="https://www.badenough.top/tags/%E9%83%A8%E7%BD%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于Hexo-Theme-Matery主题的一些个性化修改</title>
+    <link href="https://www.badenough.top/p/b38d.html"/>
+    <id>https://www.badenough.top/p/b38d.html</id>
+    <published>2020-10-26T13:01:35.000Z</published>
+    <updated>2020-10-26T13:09:18.676Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;最近利用Hexo搭建博客，网上的大量文献都是关于Next主题的配置与自定义修改的，却鲜有人写关于好看的hexo-theme-matery的。hexo-theme-matery这么好看的主题居然没被很多人发现…&lt;/p&gt;
+&lt;p&gt;在这里记录一下自己对&lt;code&gt;hexo-them
+        
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://www.badenough.top/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="matery主题" scheme="https://www.badenough.top/tags/matery%E4%B8%BB%E9%A2%98/"/>
+    
+      <category term="博客优化" scheme="https://www.badenough.top/tags/%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>部署Hexo踩过的坑——node14.0配置hexo</title>
+    <link href="https://www.badenough.top/p/3564.html"/>
+    <id>https://www.badenough.top/p/3564.html</id>
+    <published>2020-10-26T11:49:19.000Z</published>
+    <updated>2020-10-26T12:21:06.764Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;当我在hexo-g的时候&quot;&gt;&lt;a href=&quot;#当我在hexo-g的时候&quot; class=&quot;headerlink&quot; title=&quot;当我在hexo g的时候&quot;&gt;&lt;/a&gt;当我在hexo g的时候&lt;/h1&gt;&lt;pre&gt;&lt;code
+        
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://www.badenough.top/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="hexo主题" scheme="https://www.badenough.top/tags/hexo%E4%B8%BB%E9%A2%98/"/>
+    
+      <category term="node坑" scheme="https://www.badenough.top/tags/node%E5%9D%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo-matery主题优化</title>
+    <link href="https://www.badenough.top/p/fdc3.html"/>
+    <id>https://www.badenough.top/p/fdc3.html</id>
+    <published>2020-10-24T13:11:37.000Z</published>
+    <updated>2020-10-26T13:17:42.132Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;hexo搜索&quot;&gt;&lt;a href=&quot;#hexo搜索&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://www.badenough.top/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="matery主题" scheme="https://www.badenough.top/tags/matery%E4%B8%BB%E9%A2%98/"/>
+    
+      <category term="博客优化" scheme="https://www.badenough.top/tags/%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>回忆我与微博</title>
+    <link href="https://www.badenough.top/p/10130.html"/>
+    <id>https://www.badenough.top/p/10130.html</id>
+    <published>2020-10-23T06:55:32.000Z</published>
+    <updated>2020-10-26T12:27:40.104Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;我是2017年左右加入微博并且第一次注册微博账号的，到现在2020年也有3年多了。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔录" scheme="https://www.badenough.top/categories/%E9%9A%8F%E7%AC%94%E5%BD%95/"/>
+    
+    
+      <category term="微博" scheme="https://www.badenough.top/tags/%E5%BE%AE%E5%8D%9A/"/>
+    
+      <category term="回忆" scheme="https://www.badenough.top/tags/%E5%9B%9E%E5%BF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>简单又实用的windows快捷键</title>
+    <link href="https://www.badenough.top/p/31957.html"/>
+    <id>https://www.badenough.top/p/31957.html</id>
+    <published>2020-10-18T00:38:40.000Z</published>
+    <updated>2020-10-26T12:30:16.385Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;Windows快捷键,太忙了一直没有时间管理自己的网站，今天整理一些资料开始写写。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="学习资料库" scheme="https://www.badenough.top/categories/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E5%BA%93/"/>
+    
+    
+      <category term="Win快捷键" scheme="https://www.badenough.top/tags/Win%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+    
+      <category term="学习资料" scheme="https://www.badenough.top/tags/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown文件编辑</title>
+    <link href="https://www.badenough.top/p/26142.html"/>
+    <id>https://www.badenough.top/p/26142.html</id>
+    <published>2020-09-23T13:43:49.000Z</published>
+    <updated>2020-10-26T13:18:57.451Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Welcome-to-Marxico&quot;&gt;&lt;a href=&quot;#Welcome-to-Marxico&quot; class=&quot;headerlink&quot; title=&quot;Welcome to Marxico&quot;&gt;&lt;/a&gt;Welcome to
+        
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://www.badenough.top/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="markdown" scheme="https://www.badenough.top/tags/markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>工艺夹具期末复习</title>
+    <link href="https://www.badenough.top/p/14990.html"/>
+    <id>https://www.badenough.top/p/14990.html</id>
+    <published>2020-06-29T06:55:32.000Z</published>
+    <updated>2020-07-06T11:39:51.985Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;根据老师的资料进行总结复习，不是很完全。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;工艺夹具期末总结&quot;&gt;&lt;a href=&quot;#工艺夹具期末总结&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="工艺夹具课程" scheme="https://www.badenough.top/categories/%E5%B7%A5%E8%89%BA%E5%A4%B9%E5%85%B7%E8%AF%BE%E7%A8%8B/"/>
+    
+    
+      <category term="工艺" scheme="https://www.badenough.top/tags/%E5%B7%A5%E8%89%BA/"/>
+    
+      <category term="夹具" scheme="https://www.badenough.top/tags/%E5%A4%B9%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB 遭禁，CAD 也危险，国产工业软件如何突围？</title>
+    <link href="https://www.badenough.top/p/b829.html"/>
+    <id>https://www.badenough.top/p/b829.html</id>
+    <published>2020-06-22T12:51:34.000Z</published>
+    <updated>2020-06-24T07:48:42.762Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;MATLAB-遭禁，CAD-也危险，国产工业软件如何突围？&quot;&gt;&lt;a href=&quot;#MATLAB-遭禁，CAD-也危险，国产工业软件如何突围？&quot; class=&quot;headerlink&quot; title=&quot;MATLAB 遭禁，CAD
+        
+      
+    
+    </summary>
+    
+    
+      <category term="新闻" scheme="https://www.badenough.top/categories/%E6%96%B0%E9%97%BB/"/>
+    
+    
+      <category term="工业软件" scheme="https://www.badenough.top/tags/%E5%B7%A5%E4%B8%9A%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="Matlab" scheme="https://www.badenough.top/tags/Matlab/"/>
+    
+      <category term="CAD" scheme="https://www.badenough.top/tags/CAD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>9个常用的代码托管平台</title>
+    <link href="https://www.badenough.top/p/a797.html"/>
+    <id>https://www.badenough.top/p/a797.html</id>
+    <published>2020-06-22T12:44:46.000Z</published>
+    <updated>2020-06-24T07:48:42.754Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;技术派-9个常用的代码托管平台&quot;&gt;&lt;a href=&quot;#技术派-9个常用的代码托管平台&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="分享推荐" scheme="https://www.badenough.top/categories/%E5%88%86%E4%BA%AB%E6%8E%A8%E8%8D%90/"/>
+    
+    
+      <category term="代码库" scheme="https://www.badenough.top/tags/%E4%BB%A3%E7%A0%81%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>比谷歌浏览器还好用的浏览器</title>
+    <link href="https://www.badenough.top/p/53621.html"/>
+    <id>https://www.badenough.top/p/53621.html</id>
+    <published>2020-06-19T03:12:51.000Z</published>
+    <updated>2020-10-26T12:31:34.711Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;Microsoft eage 浏览器&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="分享推荐" scheme="https://www.badenough.top/categories/%E5%88%86%E4%BA%AB%E6%8E%A8%E8%8D%90/"/>
+    
+    
+      <category term="推广" scheme="https://www.badenough.top/tags/%E6%8E%A8%E5%B9%BF/"/>
+    
+      <category term="分享" scheme="https://www.badenough.top/tags/%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为你的hexo博客添加导航页</title>
+    <link href="https://www.badenough.top/p/e925.html"/>
+    <id>https://www.badenough.top/p/e925.html</id>
+    <published>2020-05-16T12:52:17.000Z</published>
+    <updated>2020-05-16T12:58:46.244Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;今天来说下如何在hexo博客中添加静态导航页面！（针对主题文件格式为ejs的）&lt;/p&gt;
+&lt;h2 id=&quot;首先新建页面，执行下面的命令&quot;&gt;&lt;a href=&quot;#首先新建页面，执行下面的命令&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://www.badenough.top/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="matery主题" scheme="https://www.badenough.top/tags/matery%E4%B8%BB%E9%A2%98/"/>
+    
+      <category term="博客优化" scheme="https://www.badenough.top/tags/%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>详解chm文件怎么打开</title>
+    <link href="https://www.badenough.top/p/ecd1.html"/>
+    <id>https://www.badenough.top/p/ecd1.html</id>
+    <published>2020-05-15T06:44:11.000Z</published>
+    <updated>2020-05-16T12:41:30.343Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;chm文件也就是我们使用的windows操作系统中的帮助文件，很多用户不知道chm文件怎么打开，为了方便各位能够查看chm文件，下面小编就来告诉你chm文件怎么打开。&lt;/p&gt;
+&lt;p&gt;为了让很多新手用户能够快速的上手windows操作系统，微软精心的编写了以chm文件格式的w
+        
+      
+    
+    </summary>
+    
+    
+      <category term="分享推荐" scheme="https://www.badenough.top/categories/%E5%88%86%E4%BA%AB%E6%8E%A8%E8%8D%90/"/>
+    
+    
+      <category term="chm文件" scheme="https://www.badenough.top/tags/chm%E6%96%87%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>日记（5月7日）</title>
+    <link href="https://www.badenough.top/p/bb29.html"/>
+    <id>https://www.badenough.top/p/bb29.html</id>
+    <published>2020-05-06T23:57:18.000Z</published>
+    <updated>2020-05-07T00:28:24.636Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;前奏&quot;&gt;&lt;a href=&quot;#前奏&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="随笔录" scheme="https://www.badenough.top/categories/%E9%9A%8F%E7%AC%94%E5%BD%95/"/>
+    
+    
+      <category term="日常生活" scheme="https://www.badenough.top/tags/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hugo+github博客搭建教程！</title>
+    <link href="https://www.badenough.top/p/af9e.html"/>
+    <id>https://www.badenough.top/p/af9e.html</id>
+    <published>2020-05-06T05:55:14.000Z</published>
+    <updated>2020-05-06T06:23:56.030Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://gitee.com/badenough/blogImage/raw/master/img/314.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;什么是hugo&quot;&gt;&lt;a href=&quot;#什么是hugo&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://www.badenough.top/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="hugo博客" scheme="https://www.badenough.top/tags/hugo%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="github" scheme="https://www.badenough.top/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>matery主题修改文章发布统计图的开始时间</title>
+    <link href="https://www.badenough.top/p/2b5c.html"/>
+    <id>https://www.badenough.top/p/2b5c.html</id>
+    <published>2020-05-04T01:33:52.000Z</published>
+    <updated>2020-05-04T01:48:24.337Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;先看图片：&quot;&gt;&lt;a href=&quot;#先看图片：&quot; class=&quot;headerlink&quot; title=&quot;先看图片：&quot;&gt;&lt;/a&gt;先看图片：&lt;/h2&gt;&lt;p&gt;我是从11月开始的，你也可以在下面把时间调的更后面。&lt;/p&gt;
+&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://www.badenough.top/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="matery主题" scheme="https://www.badenough.top/tags/matery%E4%B8%BB%E9%A2%98/"/>
+    
+      <category term="博客优化" scheme="https://www.badenough.top/tags/%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>nginx如何正确配置https</title>
+    <link href="https://www.badenough.top/p/7670.html"/>
+    <id>https://www.badenough.top/p/7670.html</id>
+    <published>2020-05-02T02:34:13.000Z</published>
+    <updated>2020-05-06T07:16:28.366Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;在web应用开发中，为保证前端访问后端服务器的安全，需要使用https连接，现在来聊一下如何在nginx中配置https.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;首先&quot;&gt;&lt;a href=&quot;#首先&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="后端" scheme="https://www.badenough.top/categories/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+      <category term="https" scheme="https://www.badenough.top/tags/https/"/>
+    
+      <category term="ssl" scheme="https://www.badenough.top/tags/ssl/"/>
+    
+      <category term="配置" scheme="https://www.badenough.top/tags/%E9%85%8D%E7%BD%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>html 表格单元格的宽度和高度的设置</title>
+    <link href="https://www.badenough.top/p/ad4b.html"/>
+    <id>https://www.badenough.top/p/ad4b.html</id>
+    <published>2020-04-29T05:20:46.000Z</published>
+    <updated>2020-05-03T01:52:39.811Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;html-表格单元格的宽度和高度的设置&quot;&gt;&lt;a href=&quot;#html-表格单元格的宽度和高度的设置&quot; class=&quot;headerlink&quot; title=&quot;html 表格单元格的宽度和高度的设置&quot;&gt;&lt;/a&gt;html
+        
+      
+    
+    </summary>
+    
+    
+      <category term="分享推荐" scheme="https://www.badenough.top/categories/%E5%88%86%E4%BA%AB%E6%8E%A8%E8%8D%90/"/>
+    
+    
+      <category term="html" scheme="https://www.badenough.top/tags/html/"/>
+    
+      <category term="表格" scheme="https://www.badenough.top/tags/%E8%A1%A8%E6%A0%BC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>html 漂亮分割线</title>
+    <link href="https://www.badenough.top/p/688d.html"/>
+    <id>https://www.badenough.top/p/688d.html</id>
+    <published>2020-04-29T02:15:12.000Z</published>
+    <updated>2020-05-03T01:52:39.811Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;我用的编辑器是eclipse，这个根据个人喜好来定，用什么都无所谓的，就算你直接用txt也照样能实现这里的效果，毕竟只是静态。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;第一种：&quot;&gt;&lt;a href=&quot;#第一种：&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="分享推荐" scheme="https://www.badenough.top/categories/%E5%88%86%E4%BA%AB%E6%8E%A8%E8%8D%90/"/>
+    
+    
+      <category term="html" scheme="https://www.badenough.top/tags/html/"/>
+    
+      <category term="css" scheme="https://www.badenough.top/tags/css/"/>
+    
+      <category term="分割线" scheme="https://www.badenough.top/tags/%E5%88%86%E5%89%B2%E7%BA%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo博客常用命令与部署问题解决</title>
+    <link href="https://www.badenough.top/p/5ef6.html"/>
+    <id>https://www.badenough.top/p/5ef6.html</id>
+    <published>2020-04-28T14:53:00.000Z</published>
+    <updated>2020-05-03T01:52:39.831Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Contents&quot;&gt;&lt;a href=&quot;#Contents&quot; class=&quot;headerlink&quot; title=&quot;Contents&quot;&gt;&lt;/a&gt;Contents&lt;/h1&gt;&lt;p&gt;Welcome to Hexo! This is your very first
+        
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://www.badenough.top/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="hexo博客" scheme="https://www.badenough.top/tags/hexo%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="部署" scheme="https://www.badenough.top/tags/%E9%83%A8%E7%BD%B2/"/>
+    
+  </entry>
+  
+</feed>
